@@ -1,7 +1,6 @@
 # [Jest - Javascript Testing](https://raw.githubusercontent.com/sofia-aguirre/jest-lesson/master/image.png)
 Jest is a unit testing platform to test Javasript code and React apps (made by Facebook).
 
-How to install:
 ![How to install](https://i.postimg.cc/SKMMJF7X/Screen-Shot-2018-10-19-at-11-10-45-AM.png?raw=true)
 
 ## Strengths
@@ -13,7 +12,9 @@ How to install:
 - Has API assertions library
 
 ```
+<p>
 "...something easy to understand, fast to setup, rock solid and well documented. Jest covers all four requirements we had. I totally recommend it."
+</p>
 ```
 [Ignacio Segura on Cloudboost.io](https://blog.cloudboost.io/first-run-facebook-jest-the-js-testing-tool-for-people-who-hate-writing-tests-30b5bc4b9dd2)
 
