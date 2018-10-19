@@ -28,3 +28,7 @@ Jest is a unit testing platform to test Javasript code and React apps (made by F
 Jest seems like an easy choice to implement testing for small apps and no experience necessary when you follow their documentation. It works out of the box, but there is not much support aside from the well-written documentation and there's also not much of a community. 
 - If you do have experience with testing then it might be too limited for what you want to do.
 - If you don't, it might be a good starting point.
+
+
+
+##### Luke Engle & Sofia Aguirre 
