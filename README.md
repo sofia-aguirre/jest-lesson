@@ -12,9 +12,7 @@ Jest is a unit testing platform to test Javasript code and React apps (made by F
 - Has API assertions library
 
 ```
-<p>
 "...something easy to understand, fast to setup, rock solid and well documented. Jest covers all four requirements we had. I totally recommend it."
-</p>
 ```
 [Ignacio Segura on Cloudboost.io](https://blog.cloudboost.io/first-run-facebook-jest-the-js-testing-tool-for-people-who-hate-writing-tests-30b5bc4b9dd2)
 
